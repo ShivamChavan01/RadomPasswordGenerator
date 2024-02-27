@@ -1,0 +1,9 @@
+#dice{
+    padding: 10px 12px;
+    display: block;
+    text-align: center;
+    font-size:  1.5em;
+}
+#mylabel{
+   font-size: 100px;
+}
